@@ -1,0 +1,6 @@
+{
+  "name": "Ridge Hall Ambler",
+  "description": "Historic industrial-themed social space in Ambler, PA featuring regional chefs, craft beverages, events, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
